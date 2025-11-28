@@ -1,5 +1,3 @@
-Here’s the same README, edited to match **our actual project files + flow** (single notebook / script: `Group Project.ipynb` / `Group Project.py`, Linux `ps` usage, test processes, etc.).
-You can paste this directly into **README.md** on GitHub.
 
 ---
 
